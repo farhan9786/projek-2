@@ -18,7 +18,7 @@ package javaapplication1;
 public class project2 {
     public static void main (String args[])
     {
-        System.out.println("Kepercayaan kepada Tuhan");
+        System.out.println("Kepercayaan kepada Allah");
         System.out.println("Kesetiaan kepada Raja dan Negara");
         System.out.println("Keluhuran Perlembagaan");
         System.out.println("Kedaulatan Undang-Undang");
